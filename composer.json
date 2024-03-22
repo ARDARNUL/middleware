@@ -1,0 +1,21 @@
+{
+    "name": "lc/search",
+    "description": "search for lc",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Search\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adarnul",
+            "email": "adarnul.global@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    }
+}
