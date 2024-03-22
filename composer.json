@@ -1,5 +1,5 @@
 {
-    "name": "lc/search",
+    "name": "adarnul/search",
     "description": "search for lc",
     "type": "library",
     "license": "mit",
@@ -16,6 +16,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.4 | ^8.0"
+      "php": "^7.4 | ^8.0"
     }
 }
